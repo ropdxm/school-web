@@ -1,0 +1,70 @@
+body {
+    background-image: url("depositphotos_69779525-stock-illustration-vector-geometrical-polygon-abstract-purple.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro {
+    text-align: center;
+    color:black;
+    margin: 100px 40px 40px 40px;
+}
+
+.about_me {
+    text-align: center;
+    padding: 20px;
+    background-color:rgb(130, 255, 243);
+    margin: 10px 60px 10px 60px;
+}
+
+hr {
+    border-top: 5px solid red;
+    margin: 20px 20px 100px 20px;
+}
+
+.proj {
+    font-family: Ubuntu;
+}
+
+.ll {
+    margin: 100px 0px 10px 50px;
+}
+
+li {
+    font-size: 30px;
+    margin: 10px 0px 10px 20px;
+    color: coral;
+}
+
+ol {
+    list-style-type: circle;
+}
+
+.TableF {
+    width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse;
+}
+
+.films {
+    font-size: 30px;
+    margin: 100px 20px 20px 20px;
+    padding: 20px;
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+.imgg {
+    margin: 10px 20px 10px 650px;
+}
+
+.best_video {
+    text-align: center;
+    margin-top: 50px;
+    color: darkred;
+}
+
+.hhh {
+    margin-top: 100px;
+}
