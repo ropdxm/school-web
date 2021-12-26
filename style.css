@@ -59,6 +59,12 @@ ol {
     margin: 10px 20px 10px 650px;
 }
 
+.box {
+    background-color: aquamarine;
+    margin: 20px;
+    display: inline-block;
+}
+
 .best_video {
     text-align: center;
     margin-top: 50px;
