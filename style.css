@@ -1,7 +1,7 @@
 body {
-    background-image: url("depositphotos_69779525-stock-illustration-vector-geometrical-polygon-abstract-purple.jpg");
+    background-image: url("multimedia/depositphotos_69779525-stock-illustration-vector-geometrical-polygon-abstract-purple.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 
 .intro {
@@ -73,4 +73,14 @@ ol {
 
 .hhh {
     margin-top: 100px;
+}
+
+.block_layout {
+    position: absolute;
+    background: linear-gradient(blue, green);
+}
+
+.block_layout img {
+    width: 200px;
+    height: 150px;
 }
